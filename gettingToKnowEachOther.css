@@ -1,0 +1,30 @@
+*{background-color:rgb(208, 210, 211)}
+
+a:link{text-decoration: none;}
+/* This is all of the css for Requirement 1 */
+.header{
+    text-align:center;
+    padding:-19px;
+}
+.header img{ 
+    height:auto;
+    width:400px;
+    max-width:100%;
+    border-radius: 2%;
+}
+.header p{ margin-top:-25px;}
+/*this is the code for most of the other requirements */
+.midInfo{
+    text-align: center;
+}
+
+.midInfo p{   
+    text-indent:2%;
+    margin-left:5%;
+    margin-right:5%;
+}
+
+.midInfo ul{
+    list-style-type: square;
+    list-style-position:inside;
+}
